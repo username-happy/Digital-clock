@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.383);
+    text-align: center;
+    color: white;
+}
+.main{
+    margin-top: 150px;
+    font-size: 45px;
+}
+.Upper{
+    font-size: 85px;
+    margin-top: 30px;
+    padding: 30px;
+}
